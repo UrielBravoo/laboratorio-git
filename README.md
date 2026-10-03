@@ -15,4 +15,4 @@ Aprender a registrar la evolución de un proyecto utilizando Git.
 
 ## Estado
 
-El proyecto se encuentra en desarrollo.
+El proyecto se encuentra en desarrollo.Corrección de error
